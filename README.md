@@ -10,7 +10,8 @@ API sederhana untuk pencatatan tugas pribadi. Menggunakan Laravel sebagai backen
 3. copy file .env.example ke .env -> command : "cp .env.example .env"
 4. buat DB  -> command : "php artisan db:create"
 5. Migrasi data -> command "php artisan migrate"
-6. Test -> command "php artisan test"
+6. Generate Application key -> "php artisan key:generate"
+7. Test -> command "php artisan test"
 
 ## Penggunaan API
 
